@@ -26,8 +26,8 @@ class Vehicle {
 
 public class MainVehicle {
     public static void main(String[] args) {
-        Vehicle vehicle1 = new Vehicle("Jack", "Car", "123");
-        Vehicle vehicle2 = new Vehicle("Jack", "Motorcycle", "V456");
+        Vehicle vehicle1 = new Vehicle("Jack", "Car", "p123");
+        Vehicle vehicle2 = new Vehicle("Jack", "Motorcycle", "456");
         vehicle1.displayDetails();
         vehicle2.displayDetails();
         Vehicle.updateRegistrationFee(600.00);
