@@ -1,74 +1,68 @@
 <h1 align="center">ALL Assignment:</h1>
 </hr>
 
+## DATE: 16-01-2025 Git, GitBash, and GitHub
+
+- **Git**: A distributed version control system for tracking changes in code.
+
+- **GitBash**: A command-line interface that allows you to use Git commands on Windows.
+
+- **GitHub**: A web-based platform for hosting Git repositories, enabling collaboration and project management.
+
+---
+
 ## Assignment 1: DATE: 19-01-2025
-* Completed Assisted Problems & Self Problems (Assignment-1)
+
+
+* Completed Assisted Problems & Self Problems 
 
 * Basic Introduction of Java and completed initial programs. History and Evolution of Java, JVM Architecture Java Fundamentals, High level vs. low level and Compiler and Interpreter
 
-Static and Non-Static Members Calling Static Methods:
-
-From other static methods.
-
-From non-static methods. Calling Non-Static Methods:
-
-From static methods.
-
-From other non-static methods.
-
-Static Constructor and Static Class Studied the purpose and behavior of static constructors. Learned about the characteristics and usage of static classes. Gained knowledge about static imports using import statements in Java.
-
-Overloading and Overriding Static Methods Explored the differences and restrictions between overloading and overriding static methods.
+---
 
 ## Assigment 2: DATE: 21-01-2025
 
-Fundamental Concepts
 
-Comments: Understanding the purpose and usage of comments in code.
+#### Fundamental Concepts
 
-Data Types: Exploring various data types and their applications.
+- **Comments**: Understanding the purpose and usage of comments in code.
 
-Variable Naming: Learning effective strategies for naming variables.
+- **Data Types**: Exploring various data types and their applications.
 
-Operators and Type Conversion
+- **Variable Naming**: Learning effective strategies for naming variables.
 
-Operators: Studying different operators and their precedence.
+#### Operators and Type Conversion
 
-Type Conversion: Understanding how to convert between different data types. Practice
+- **Operators**: Studying different operators and their precedence.
 
+- **Type Conversion**: Understanding how to convert between different data types. Practice
+
+### *Solved 
 Level 1 Problems: Solved problems to reinforce understanding of basic concepts.
-
-Best Programming Practices:
-
-Effective variable naming.
-
-Avoiding hard-coded values.
-
-Additional best practices.
 
 Level 2 Problems: Engaged in more complex problem-solving exercises.
 
+---
+
 ## Assigment 3: DATE: 22-01-2025
 
-Control Flow in Java
+#### Control Flow in Java
 
-Java Control Flows: Studied the flow of control in Java programs.
+- **Java Control Flows: Studied the flow of control in Java programs.
 
-Boolean Expressions: Understanding the role of boolean expressions in decision-making.
+- **Boolean Expressions: Understanding the role of boolean expressions in decision-making.
 
-Conditional Statements: Learning about if, else, and other conditional constructs.
+- **Conditional Statements: Learning about if, else, and other conditional constructs.
 
-Looping and Branching
+#### Looping and Branching
 
-Loops: Exploring for, while, and do-while loops.
+- **Loops**: Exploring for, while, and do-while loops.
 
-Break and Continue Statements: Understanding their usage in controlling loop execution.
+- **Break and Continue Statements**: Understanding their usage in controlling loop execution.
 
-Switch Statements: Learning how to use switch statements for multi-way branching. Practice
+- **Switch Statements**: Learning how to use switch statements for multi-way branching. Practice
 
-
-
-### * Solved Best Programming Practices:
+### *Solved Best Programming Practices:
 Level 1 Problems: Solved introductory problems to apply control flow concepts.
 
 Level 2 Problems: Tackled intermediate-level problems.
@@ -76,6 +70,7 @@ Level 2 Problems: Tackled intermediate-level problems.
 Level 3 Problems: Challenged with advanced problem-solving tasks.
 
 ## Assigment 4: DATE: 23-01-2025 
+
 
 #### Java Arrays
 
@@ -91,7 +86,6 @@ Level 3 Problems: Challenged with advanced problem-solving tasks.
 - **Level 2 Problems**: Engaged in more complex problem-solving exercises involving arrays.
 
 ---
-
 
 ## Assignment 5: DATE: 27-01-2025  
 
@@ -169,7 +163,7 @@ Java Class: Studied the structure and purpose of classes in Java.
 Java Object: Learned about creating and using objects in Java.
 
 
-### * Solved *
+### *Solved 
 Level 1 Problems: Practiced problems focusing on the application of OOP concepts, specifically classes and objects.
 
 ---
