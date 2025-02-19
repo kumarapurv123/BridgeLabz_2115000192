@@ -331,3 +331,47 @@ Single, Double, and Circular LinkedList: Explore the characteristics and differe
 Assignment Problems: Solve practice problems focused on the implementation and manipulation of linked lists.
 
 ---
+
+## Assignment 17: DATE: 15-02-2025
+
+
+Algorithm's Runtime Analysis & Big-O Notation
+Algorithm's Runtime Analysis: Study the concepts of analyzing the runtime of algorithms.
+
+#### Big-O Notation 
+
+Learn about Big-O notation and its importance in evaluating algorithm efficiency.
+
+### * Practice
+Assignment Problems: Solve practice problems focusing on algorithm runtime analysis and Big-O notation.
+
+---
+
+## Assignment 18: DATE: 17-02-2025
+
+
+#### Java Generics
+
+Introduction to Generics: Understand the basic concepts and benefits of using generics in Java.
+
+#### Generic Classes and Methods
+
+Study the use of generic classes and methods and their applications.
+
+### * Practice
+Assignment Problems: Solve practice problems focused on implementing and using generics in Java.
+
+---
+
+## Assignment 19: DATE: 18-02-2025
+
+#### Collections in Java
+
+Introduction to Collections: Learn about the key features and types of collections in Java.
+
+#### Commonly Used Collections
+
+Explore the characteristics and use cases of commonly used collections like ArrayList, HashSet, and HashMap.
+
+### * Practice
+Assignment Problems: Solve practice problems related to using and manipulating various collections in Java.
