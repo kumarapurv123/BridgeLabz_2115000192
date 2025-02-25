@@ -1,0 +1,4 @@
+"ID","Name","Department","Encrypted Salary","Encrypted Email"
+"1","Alice Johnson","HR","55000","alice@example.com"
+"2","Bob Smith","IT","65000","bob@example.com"
+"3","Charlie Brown","Finance","60000","charlie@example.com"

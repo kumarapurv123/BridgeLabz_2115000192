@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1,
+        "Name": "John Doe",
+        "Age": 18,
+        "Marks": 75
+    },
+    {
+        "ID": 2,
+        "Name": "Jane Smith",
+        "Age": 19,
+        "Marks": 82
+    },
+    {
+        "ID": 3,
+        "Name": "Bob Brown",
+        "Age": 17,
+        "Marks": 90
+    },
+    {
+        "ID": 4,
+        "Name": "Emily Johnson",
+        "Age": 20,
+        "Marks": 91
+    },
+    {
+        "ID": 5,
+        "Name": "Michael Brown",
+        "Age": 19,
+        "Marks": 78
+    }
+]
