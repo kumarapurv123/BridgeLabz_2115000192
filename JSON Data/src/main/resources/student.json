@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Rajesh Kumar",
+    "age": 21,
+    "subjects": ["Math", "Science", "History"]
+  },
+  {
+    "name": "Anjali Patel",
+    "age": 22,
+    "subjects": ["Biology", "Chemistry", "Physics"]
+  },
+  {
+    "name": "Ravi Sharma",
+    "age": 20,
+    "subjects": ["English", "Art", "Music"]
+  },
+  {
+    "name": "Ivan Petrov",
+    "age": 23,
+    "subjects": ["Computer Science", "Math", "Statistics"]
+  },
+  {
+    "name": "Natalia Ivanova",
+    "age": 19,
+    "subjects": ["Economics", "Political Science", "History"]
+  }
+]
